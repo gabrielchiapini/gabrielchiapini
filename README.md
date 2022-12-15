@@ -1,4 +1,9 @@
-## Olá eu sou o Gabriel Chiapini!
+## Olá eu sou o Gabriel Chiapini !
+
+- 🔭 A procura de um estágio front-end
+- 🌱 Estudando PowerBi
+
+   
 <div align="center">
   <a href="https://github.com/gabrielchiapini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielchiapini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
