@@ -1,7 +1,7 @@
 ## Olá eu sou o Gabriel Chiapini !
 
 - 🔭 A procura de um estágio front-end
-- 🌱 Estudando PowerBi
+- 🌱 Estudando JavaScript
 
    
 <div align="center">
