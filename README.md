@@ -1,6 +1,6 @@
 ## Olá eu sou o Gabriel Chiapini !
 
-- 🔭 A procura de um estágio front-end
+- 🔭 A procura de um estágio de programação
 - 🌱 Estudando JavaScript
 
    
