@@ -1,7 +1,7 @@
 ## Olá eu sou o Gabriel Chiapini !
 
 - 🔭 A procura de um estágio de programação
-- 🌱 Estudando JavaScript
+- 🌱 Estudando 
 
    
 <div align="center">
